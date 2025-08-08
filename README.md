@@ -25,7 +25,17 @@ python2024/
 │   ├── nomes.py    # Trabalhando com texto
 │   ├── calculadora.py # Operações matemáticas
 │   └── README.md   # Resumo do Dia 1
-├── dia02/          # [Em breve...]
+├── dia02/          # Variáveis e Estruturas Condicionais
+│   ├── variaveis.py    # Trabalhando com variáveis
+│   ├── input.py        # Entrada de dados do usuário
+│   ├── if.py          # Estruturas condicionais básicas
+│   ├── else.py        # Condicionais com else
+│   ├── elif.py        # Múltiplas condições
+│   ├── tabela_verdade.py # Lógica booleana
+│   ├── ex/            # Exercícios práticos
+│   │   ├── 01.py → 06.py
+│   │   └── ex_azul/   # Exercícios avançados
+│   └── README.md      # Resumo do Dia 2
 ├── dia03/          # [Em breve...]
 └── README.md       # Este arquivo
 ```
@@ -36,7 +46,10 @@ python2024/
 
 ### **Fundamentos Python** 🏗️
 - [x] Sintaxe básica e tipos de dados
-- [ ] Estruturas de controle (if, for, while)
+- [x] Variáveis e entrada de dados
+- [x] Estruturas condicionais (if, elif, else)
+- [x] Lógica booleana e operadores
+- [ ] Estruturas de repetição (for, while)
 - [ ] Funções e módulos
 - [ ] Programação orientada a objetos
 
@@ -61,8 +74,8 @@ python2024/
 | Dia | Tópico | Status | Conceitos Chave |
 |-----|--------|--------|-----------------|
 | **01** | Fundamentos | ✅ **Concluído** | `print()`, operadores, tipos de dados |
-| **02** | Variáveis e Input | 🔄 **Em andamento** | - |
-| **03** | Estruturas de Controle | ⏳ **Pendente** | - |
+| **02** | Variáveis e Condicionais | ✅ **Concluído** | `input()`, variáveis, `if/elif/else`, lógica booleana |
+| **03** | Estruturas de Repetição | ⏳ **Pendente** | - |
 | **04** | Listas e Loops | ⏳ **Pendente** | - |
 | **05** | Funções | ⏳ **Pendente** | - |
 
