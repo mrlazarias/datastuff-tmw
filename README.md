@@ -36,7 +36,11 @@ python2024/
 │   │   ├── 01.py → 06.py
 │   │   └── ex_azul/   # Exercícios avançados
 │   └── README.md      # Resumo do Dia 2
-├── dia03/          # [Em breve...]
+├── dia03/          # Estruturas de Repetição e Listas
+│   ├── for.py           # Loops FOR e iterações
+│   ├── while.py         # Loops WHILE e controle de fluxo
+│   ├── listas.py        # Listas e operações básicas
+│   └── README.md        # Resumo do Dia 3
 └── README.md       # Este arquivo
 ```
 
@@ -49,7 +53,8 @@ python2024/
 - [x] Variáveis e entrada de dados
 - [x] Estruturas condicionais (if, elif, else)
 - [x] Lógica booleana e operadores
-- [ ] Estruturas de repetição (for, while)
+- [x] Estruturas de repetição (for, while)
+- [x] Listas e operações básicas
 - [ ] Funções e módulos
 - [ ] Programação orientada a objetos
 
@@ -75,9 +80,9 @@ python2024/
 |-----|--------|--------|-----------------|
 | **01** | Fundamentos | ✅ **Concluído** | `print()`, operadores, tipos de dados |
 | **02** | Variáveis e Condicionais | ✅ **Concluído** | `input()`, variáveis, `if/elif/else`, lógica booleana |
-| **03** | Estruturas de Repetição | ⏳ **Pendente** | - |
-| **04** | Listas e Loops | ⏳ **Pendente** | - |
-| **05** | Funções | ⏳ **Pendente** | - |
+| **03** | Estruturas de Repetição e Listas | ✅ **Concluído** | `for`, `while`, `range()`, listas, slicing, `break/continue` |
+| **04** | Funções | ⏳ **Pendente** | - |
+| **05** | Módulos e Bibliotecas | ⏳ **Pendente** | - |
 
 ---
 

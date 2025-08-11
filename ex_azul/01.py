@@ -7,7 +7,7 @@ escolha = input("Voce gostaria de uma garrafa de agua mineral ou com gás? [mine
 if escolha == 'mineral':
     print("Voce me deve R$1,50")
 
-elif escolha == 'gas'
+elif escolha == 'gas':
   print("Voce me deve R$2,50")
 
 else:
