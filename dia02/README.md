@@ -1,4 +1,4 @@
-# Dia 02 - Variáveis, Input e Estruturas Condicionais
+# Dia 02 - Variáveis, Input e Estruturas Condicionais (2025)
 
 ## O que aprendemos hoje
 

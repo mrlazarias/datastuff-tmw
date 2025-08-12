@@ -1,4 +1,4 @@
-# Dia 01 - Introdução ao Python
+# Dia 01 - Introdução ao Python (2025)
 
 ## O que aprendemos hoje
 

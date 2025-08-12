@@ -1,4 +1,4 @@
-# 🔄 Dia 03 - Estruturas de Repetição e Listas
+# 🔄 Dia 03 - Estruturas de Repetição e Listas (2025)
 
 > **Explorando loops e estruturas de dados sequenciais em Python**
 

@@ -1,4 +1,4 @@
-# 🐍 Python para Ciência de Dados 2024
+# 🐍 Python para Ciência de Dados 2025
 
 > **Jornada de aprendizado em Python focada em análise de dados, machine learning e visualização**
 
@@ -46,9 +46,20 @@ python2024/
 │   ├── tuplas.py        # Tuplas e imutabilidade
 │   ├── dicionarios.py   # Dicionários e estruturas chave-valor
 │   └── README.md        # Resumo do Dia 4
+├── dia05/          # Funções e Bibliotecas
+│   ├── bibliotecas.py   # Importação de bibliotecas (math, pandas)
+│   ├── funcoes.py       # Definição e uso de funções
+│   ├── funcoes_2.py     # Funções avançadas (*args, unpacking)
+│   ├── lendo_arquivos.py # Manipulação de arquivos
+│   ├── api.py           # Consumo de APIs e manipulação de dados
+│   ├── heroes_dota.csv  # Dados dos heróis do Dota 2
+│   ├── partidas_dota.csv # Dados de partidas profissionais
+│   └── README.md        # Resumo do Dia 5
 ├── loteria/        # Projetos Práticos
 │   ├── loteria_1.py     # Jogo simples de adivinhação
-│   └── loteria_2.py     # Versão com try/except
+│   ├── loteria_2.py     # Versão com try/except
+│   ├── loteria_3.py     # Nova versão aprimorada
+│   └── loteria_4.py     # Versão mais avançada
 ├── ex_azul/        # Exercícios Avançados
 ├── ex_casa/        # Exercícios para Casa
 ├── ex_cinza/       # Exercícios Extras
@@ -69,12 +80,17 @@ python2024/
 - [x] Tuplas e imutabilidade
 - [x] Dicionários e estruturas chave-valor
 - [x] Tratamento de exceções (try/except)
-- [ ] Funções e módulos
+- [x] Funções e parâmetros
+- [x] Importação de bibliotecas e módulos
+- [x] Manipulação de arquivos
+- [x] Consumo de APIs
 - [ ] Programação orientada a objetos
 
 ### **Bibliotecas Essenciais** 📦
+- [x] **Math** - Funções matemáticas básicas
+- [x] **Requests** - Requisições HTTP e APIs
+- [x] **Pandas** - Manipulação de dados (básico)
 - [ ] **NumPy** - Computação numérica
-- [ ] **Pandas** - Manipulação de dados
 - [ ] **Matplotlib/Seaborn** - Visualização
 - [ ] **Scikit-learn** - Machine Learning
 - [ ] **Jupyter Notebooks** - Ambiente interativo
@@ -83,6 +99,8 @@ python2024/
 - [x] Jogo de Loteria/Adivinhação (try/except)
 - [x] Sistema de Sorveteria (dicionários)
 - [x] Calculadora de Preços (estruturas de dados)
+- [x] Consumo de API do Dota 2 (requests + pandas)
+- [x] Sistema de arquivos (leitura/escrita)
 - [ ] Análise exploratória de dados
 - [ ] Limpeza e preparação de datasets
 - [ ] Modelos de regressão e classificação
@@ -99,8 +117,8 @@ python2024/
 | **02** | Variáveis e Condicionais | ✅ **Concluído** | `input()`, variáveis, `if/elif/else`, lógica booleana |
 | **03** | Estruturas de Repetição e Listas | ✅ **Concluído** | `for`, `while`, `range()`, listas, slicing, `break/continue` |
 | **04** | Estruturas de Dados Avançadas | ✅ **Concluído** | dicionários, tuplas, `try/except`, listas avançadas |
-| **05** | Funções | ⏳ **Pendente** | - |
-| **06** | Módulos e Bibliotecas | ⏳ **Pendente** | - |
+| **05** | Funções e Bibliotecas | ✅ **Concluído** | funções, parâmetros, `*args`, `import`, manipulação de arquivos, APIs |
+| **06** | Programação Orientada a Objetos | ⏳ **Pendente** | - |
 
 ---
 
@@ -168,6 +186,6 @@ python2024/
 
 **🎓 Aprendendo Python • 📊 Focado em Data Science • 🚀 Rumo ao futuro dos dados**
 
-*Última atualização: Agosto 2024*
+*Última atualização: Agosto 2025*
 
 </div>

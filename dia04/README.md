@@ -1,4 +1,4 @@
-# 📊 Dia 04 - Estruturas de Dados Avançadas
+# 📊 Dia 04 - Estruturas de Dados Avançadas (2025)
 
 > **Explorando Listas, Tuplas, Dicionários e Tratamento de Exceções**
 
