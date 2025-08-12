@@ -41,6 +41,17 @@ python2024/
 │   ├── while.py         # Loops WHILE e controle de fluxo
 │   ├── listas.py        # Listas e operações básicas
 │   └── README.md        # Resumo do Dia 3
+├── dia04/          # Estruturas de Dados Avançadas
+│   ├── listas.py        # Listas avançadas e métodos
+│   ├── tuplas.py        # Tuplas e imutabilidade
+│   ├── dicionarios.py   # Dicionários e estruturas chave-valor
+│   └── README.md        # Resumo do Dia 4
+├── loteria/        # Projetos Práticos
+│   ├── loteria_1.py     # Jogo simples de adivinhação
+│   └── loteria_2.py     # Versão com try/except
+├── ex_azul/        # Exercícios Avançados
+├── ex_casa/        # Exercícios para Casa
+├── ex_cinza/       # Exercícios Extras
 └── README.md       # Este arquivo
 ```
 
@@ -55,6 +66,9 @@ python2024/
 - [x] Lógica booleana e operadores
 - [x] Estruturas de repetição (for, while)
 - [x] Listas e operações básicas
+- [x] Tuplas e imutabilidade
+- [x] Dicionários e estruturas chave-valor
+- [x] Tratamento de exceções (try/except)
 - [ ] Funções e módulos
 - [ ] Programação orientada a objetos
 
@@ -66,6 +80,9 @@ python2024/
 - [ ] **Jupyter Notebooks** - Ambiente interativo
 
 ### **Projetos Práticos** 🚀
+- [x] Jogo de Loteria/Adivinhação (try/except)
+- [x] Sistema de Sorveteria (dicionários)
+- [x] Calculadora de Preços (estruturas de dados)
 - [ ] Análise exploratória de dados
 - [ ] Limpeza e preparação de datasets
 - [ ] Modelos de regressão e classificação
@@ -81,8 +98,9 @@ python2024/
 | **01** | Fundamentos | ✅ **Concluído** | `print()`, operadores, tipos de dados |
 | **02** | Variáveis e Condicionais | ✅ **Concluído** | `input()`, variáveis, `if/elif/else`, lógica booleana |
 | **03** | Estruturas de Repetição e Listas | ✅ **Concluído** | `for`, `while`, `range()`, listas, slicing, `break/continue` |
-| **04** | Funções | ⏳ **Pendente** | - |
-| **05** | Módulos e Bibliotecas | ⏳ **Pendente** | - |
+| **04** | Estruturas de Dados Avançadas | ✅ **Concluído** | dicionários, tuplas, `try/except`, listas avançadas |
+| **05** | Funções | ⏳ **Pendente** | - |
+| **06** | Módulos e Bibliotecas | ⏳ **Pendente** | - |
 
 ---
 
